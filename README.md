@@ -11,6 +11,7 @@ If you use this code or dataset in your research, please cite:
 	year = {2020}
 }
 ```
+Link to the paper: https://link.springer.com/article/10.1007/s11548-020-02127-w
 
 # Dataset
 
